@@ -1,0 +1,17 @@
+.extraNav {
+  top: 145px;
+  left: 20px;
+}
+
+.extraNav__button {
+  background: none;
+  border: none;
+  outline: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+.section1 h1,
+.location {
+  font-size: 23px;
+}

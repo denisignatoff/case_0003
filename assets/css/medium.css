@@ -1,0 +1,73 @@
+.header__top .container {
+  flex-direction: column;
+}
+
+header .containerInner {
+  display: none;
+}
+
+.reg {
+  margin: 10px 0;
+}
+
+.extraNav {
+  display: block;
+}
+
+.extraNav__button {
+  background: none;
+  border: none;
+  outline: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+.section1 h1 {
+  font-size: 30px;
+}
+
+.our-work__column {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.preface {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.our-work__item {
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.our-work__arrow {
+  display: none;
+}
+
+footer .container {
+  flex-direction: column;
+}
+
+footer nav {
+  display: none;
+}
+
+.footer__networks-bar {
+  margin: 10px 0;
+}
+
+.seeking-lawyer form {
+  flex-direction: column;
+  padding: 0 10px;
+}
+
+.form__select,
+.submit {
+  width: 100%;
+  margin: 5px 0;
+}
